@@ -63,5 +63,5 @@ sleep 5
 
 
 
-ls -l $DIR/BCP/$DATE/*
+ls -lh $DIR/BCP/$DATE/*
 
